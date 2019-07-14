@@ -10,7 +10,7 @@ description: |
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
-baseurl: "sample3" # the subpath of your site, e.g. /blog
+baseurl: "sample3/" # the subpath of your site, e.g. /blog
 url: "https://shubham8garg.github.io/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
